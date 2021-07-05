@@ -1,0 +1,14 @@
+Statistical Algorithm,APO Demand Planning,IBP for Demand,This Notebook
+Seasonal Linear Regression,Yes,No,No
+Adaptive Response Rate Single Exponential Smoothing,No,Yes,No
+Single Exponential Smoothing,Yes,Yes,Yes
+Double Exponential Smoothing,Yes,Yes,Yes
+Triple Exponential Smoothing,Yes,Yes,Yes
+Automated Exponential Smoothing,Yes,Yes,No
+Automated Exponential Smoothing [with parameter Optimization],Yes,No,No
+Croston Model,Yes,Yes,No
+Simple Average,No,Yes,Yes
+Simple Moving Average,Yes,Yes,Yes
+Weighted Average,No,Yes,Yes
+Weighted Moving Average,Yes,Yes,Yes
+Multiple Linear Regression,Yes,Yes,No
